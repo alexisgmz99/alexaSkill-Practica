@@ -4,7 +4,7 @@
 |NO.|NOMBRE|POTENCIADOR|ESTATUS|
 |--|--|--|--|
 |26|PRACTICA ALEXA|10|FINALIZADA
-|07|Tarea sobre el reporte para alexa|10|ACTIVA|
+|07|Tarea sobre el reporte para alexa|6|ACTIVA|
 
 ### Lista de Herramientas
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
