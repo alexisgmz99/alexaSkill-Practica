@@ -1,5 +1,17 @@
 # Desarrollo de una Habilidad para Amazon Alexa
 
+### HISTORIAL DE PRACTICAS
+|NO.|NOMBRE|POTENCIADOR|ESTATUS|
+|--|--|--|--|
+|26|PRACTICA ALEXA|10|FINALIZADA
+|07|Tarea sobre el reporte para alexa|10|ACTIVA|
+
+### Lista de Herramientas
+![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+## Autor
+Elaborado por: Alexis [@alexisgmz99](https://github.com/alexisgmz99)
+
 ## 📌 Objetivo General
 Explorar y aplicar conceptos básicos del desarrollo de habilidades personalizadas para Amazon Alexa, utilizando el framework **ask-sdk-core** y APIs externas como OpenWeatherMap.
 
@@ -51,7 +63,8 @@ Despues debemos invocar con un nombre nuestra skill de amazon alexa en este caso
 
 ## RESULTADO
 <a href="https://ibb.co/9tH6LwH"><img src="https://i.ibb.co/gVZNpvZ/Captura-de-pantalla-2024-12-05-220125.png" alt="Captura-de-pantalla-2024-12-05-220125" border="0"></a>
+ <br><br>
  
- 
-
+ ## CONCLUSION
+El desarrollo de esta habilidad personalizada para Amazon Alexa ha permitido adquirir una comprensión práctica sobre la creación de interacciones dinámicas entre los usuarios y el dispositivo, así como la integración con servicios externos como OpenWeatherMap. A través de la implementación de funcionalidades como la consulta del clima, manejo de errores y respuestas personalizadas, se logró una experiencia fluida y útil para el usuario. La habilidad no solo cumple con los requisitos básicos de funcionalidad, sino que también ofrece una estructura robusta para futuros desarrollos. Este ejercicio ha sido esencial para comprender los fundamentos del uso de ask-sdk-core y la integración con APIs externas, y sienta las bases para crear aplicaciones más complejas en el ecosistema de Alexa.
 
